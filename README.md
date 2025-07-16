@@ -1,0 +1,2 @@
+# jasurbek
+shahsiy bot
